@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="CallTicket.php" server="ftp.gplingenieria.com//inftk3/" local="131885234749675215" remote="131885234400000000" Dst="0" />
+<file name="FinishAttention.php" server="ftp.gplingenieria.com//inftk3/" local="131933653692162248" remote="131933826600000000" Dst="0" />
+<file name="getCityByDepartament.php" server="ftp.gplingenieria.com//inftk3/" local="131876648663999741" remote="131883307200000000" Dst="0" />
+<file name="getCurrentAttentionTicket.php" server="ftp.gplingenieria.com//inftk3/" local="131881631109360125" remote="131883307200000000" Dst="0" />
+<file name="getDataUserByIndex.php" server="ftp.gplingenieria.com//inftk3/" local="131880554744328460" remote="131883307200000000" Dst="0" />
+<file name="getQueueAttention.php" server="ftp.gplingenieria.com//inftk3/" local="131881632239714778" remote="131883307200000000" Dst="0" />
+<file name="getQueueAttentionTable.php" server="ftp.gplingenieria.com//inftk3/" local="131882905789757858" remote="131883307200000000" Dst="0" />
+<file name="getServiceByOffice.php" server="ftp.gplingenieria.com//inftk3/" local="131883081237531607" remote="131883307200000000" Dst="0" />
+<file name="getServicesActives.php" server="ftp.gplingenieria.com//inftk3/" local="131933396612599261" remote="131933396400000000" Dst="0" />
+<file name="getServicesAssignment.php" server="ftp.gplingenieria.com//inftk3/" local="131880730128896427" remote="131883307200000000" Dst="0" />
+<file name="getServicesHoursDataTable.php" server="ftp.gplingenieria.com//inftk3/" local="131878150517271524" remote="131883307200000000" Dst="0" />
+<file name="getStatisticalPanelAttention.php" server="ftp.gplingenieria.com//inftk3/" local="131882676706925069" remote="131883307200000000" Dst="0" />
+<file name="getTurnsByDisplay.php" server="ftp.gplingenieria.com//inftk3/" local="131885283060724550" remote="131891172600000000" Dst="0" />
+<file name="getUserByOffice.php" server="ftp.gplingenieria.com//inftk3/" local="131891495566089765" remote="131891495400000000" Dst="0" />
+<file name="saveMissingAttention.php" server="ftp.gplingenieria.com//inftk3/" local="131933653770456727" remote="131933826600000000" Dst="0" />
+<file name="showCurrentTicket.php" server="ftp.gplingenieria.com//inftk3/" local="131885252731551862" remote="131885252400000000" Dst="0" />
+<file name="validateControlAttentionPanel.php" server="ftp.gplingenieria.com//inftk3/" local="131882899182569948" remote="131883307200000000" Dst="0" />
+<file name="ValidateExistingTickets.php" server="ftp.gplingenieria.com//inftk3/" local="131882900221839391" remote="131883307200000000" Dst="0" />
+<file name="deleteMediaDisplay.php" server="ftp.gplingenieria.com//inftk3/" local="131891135939623325" remote="131891172600000000" Dst="0" />
+<file name="getDisplayMedia.php" server="ftp.gplingenieria.com//inftk3/" local="131891139239329670" remote="131891172600000000" Dst="0" />
+<file name="getDisplayByOffice.php" server="ftp.gplingenieria.com//inftk3/" local="131914630506885362" remote="131914630200000000" Dst="0" />
+<file name="uploadMedia.php" server="ftp.gplingenieria.com//inftk3/" local="131891957305121577" remote="131891956800000000" Dst="0" />
+<file name="getServicesAssignmentToDisplay.php" server="ftp.gplingenieria.com//inftk3/" local="131914630878416613" remote="131914630800000000" Dst="0" />
+<file name="getSubMenuContent.php" server="ftp.gplingenieria.com//inftk3/" local="131931838507629406" remote="131931840600000000" Dst="0" />
+<file name="getDepartamentByCountry.php" server="ftp.gplingenieria.com//inftk3/" local="131933666473003954" remote="131933671800000000" Dst="0" />
+<file name="showCurrentTicketAttention.php" server="ftp.gplingenieria.com//inftk3/" local="131933652124230245" remote="131933826600000000" Dst="0" />
+<file name="setScoreAttention.php" server="ftp.gplingenieria.com//inftk3/" local="131934405968686010" remote="131935146600000000" Dst="0" />
+</dwsync>
